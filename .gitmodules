@@ -1,3 +1,6 @@
 [submodule "docker-brewdict-io"]
 	path = docker-brewdict-io
 	url = git@github.com:BarkingDevelopment/docker-brewdict-io.git
+[submodule "api-brewdict-io"]
+	path = api-brewdict-io
+	url = git@github.com:BarkingDevelopment/api-brewdict-io.git
