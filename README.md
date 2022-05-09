@@ -32,4 +32,4 @@ they can get brewing again.
 - [ ] TILT and iSpindel integration
 - [ ] ML model transparency
 
-Video showcase [here]().
+Video showcase [here](https://youtu.be/lTp-GzsffnM).
